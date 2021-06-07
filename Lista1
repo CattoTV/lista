@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal RLOTV
+https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="487" tvg-name="Boomerang" tvg-logo="https://www.m3u.cl/logo/487_Boomerang.png", Boomerang * | CL
+http://96.30.193.226:81/hls/boomerang.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="46" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png", El Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
